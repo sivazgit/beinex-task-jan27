@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif; }
+
+html, body {
+  font-size: 18px; }
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-left: 16px;
+  padding-right: 16px;
+  flex-wrap: wrap; }
+
+.content-sec .container {
+  background-color: skyblue;
+  width: 100%;
+  height: 100vh; }
+.content-sec .quest-ans {
+  margin-left: 25%;
+  margin-right: 25%; }
+  .content-sec .quest-ans h1 {
+    margin-top: 20px; }
+
+/*# sourceMappingURL=style.css.map */
